@@ -1,0 +1,23 @@
+#login {
+	width: 310px;
+	max-width: 300px;
+	height: auto;
+	border: 0px solid #000;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.btn-login {
+	color: #FFF;
+	background: #F24800;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	border: 1px solid #E1E1E1;
+	padding: 12px;
+	width: 303px;
+}
+.custom-container {
+    padding-left: 400px;
+  	padding-right: 400px;
+}
